@@ -7,6 +7,7 @@ void main()
      printf("forth commit");
       printf("fifth commit");
       printf("sixth commit");
+      printf("seventh commit test");
 }
 
 
