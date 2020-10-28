@@ -4,5 +4,6 @@ void main()
       printf("hello,git");
       printf("second commit");
       printf("third commit");
-  }
+     printf("forth commit");
+ }
 
